@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "PLEASE",
+    "you hate me dontchu",
+    "I'll give you 5 bucks",
+    "Pretty lady cmon",
+    "Top 3 Reasons I would be a bad Boyfriend",
+    "I'm SOOOOOO UGLYYYY",
+    "i like you a lot ykkk",
+    "KY PLEASEEEEEE",
+    "KYLAH QUINN ADAMS!!!",
+    "the prettiest and only girl, please?"
 ];
 
 let messageIndex = 0;
